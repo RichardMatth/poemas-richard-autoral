@@ -24,4 +24,4 @@ Caso haja necessidade de comprovar autoria, basta consultar o histórico de comm
 
 ## Contato
 
-Para solicitar autorização para uso comercial ou outras dúvidas, entre em contato pelo e-mail: seu-email@exemplo.com
+Para solicitar autorização para uso comercial ou outras dúvidas, entre em contato pelo e-mail: richardmatheusf80@gmail.com

@@ -20,4 +20,8 @@ Desde que:
 
 Este repositório público no GitHub serve como registro público e imutável da data e conteúdo original dos poemas. Cada alteração e upload tem registro de data e hora, funcionando como uma prova digital de autoria e originalidade.
 
-Caso haja necessidade de comprovar autoria, basta consultar o histórico de commits deste repositório, ond
+Caso haja necessidade de comprovar autoria, basta consultar o histórico de commits deste repositório, onde constam as versões anteriores dos textos com suas respectivas datas.
+
+## Contato
+
+Para solicitar autorização para uso comercial ou outras dúvidas, entre em contato pelo e-mail: seu-email@exemplo.com
